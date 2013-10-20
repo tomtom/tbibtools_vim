@@ -1,5 +1,3 @@
-tbibtools (VIM plugin) -- tbibtools -- bibtex related tools (sort, filter ...)
-
 Status:  Works for me (there may be some minor quirks)
 Dependencies:
   tlib :: http://github.com/tomtom/tlib_vim
